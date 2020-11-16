@@ -1,7 +1,7 @@
 A ugly oneliner showing ip info.
 
 Output
-'''
+```
 === Your public ip: 1.1.1.1 ===
 
 == whois info ==
@@ -13,5 +13,5 @@ descr:          Keyweb AG IP Network
 === Reading resolv.conf ==
 nameserver 1.1.1.1
 nameserver 1.1.1.1
-'''
+```
 
